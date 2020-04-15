@@ -1,0 +1,23 @@
+{
+  "name": "burgerhw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Johnathan998"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnathan998/burgerhw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnathan998/burgerhw/issues"
+  },
+  "homepage": "https://github.com/Johnathan998/burgerhw#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3"
+  }
+}
